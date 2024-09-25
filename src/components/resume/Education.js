@@ -17,7 +17,7 @@ const Education = () => {
         </div>
         <div className="mt-6 lgl:mt-14 w-full h-auto border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
-            title="BE in Engineering"
+            title="BE in Computer"
             subTitle="Nepal College Of Information Technology (2021 - ongoing)"
             result="3.7/4 (Avg)"
             des="Pursuing a Bachelor’s degree in Engineering with a focus on Computer Engineering. The coursework includes software development, data structures, algorithms, and system design."
